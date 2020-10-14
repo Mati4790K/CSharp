@@ -1,4 +1,4 @@
-# CSharp | TDI - Tower Defense Itam
+# CSharp | TDI - Tower Defense Itam | Unity Engine game
 
 I uploaded only scripts because there are too many files and the total weight of the project is 600 MB.
 You can find the executable file here:
